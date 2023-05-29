@@ -1,0 +1,20 @@
+{
+  "name": "@varunagw/lotr-sdk-example",
+  "version": "1.0.0",
+  "description": "Example project to use LOTR SDK",
+  "main": "index.js",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "lotr",
+    "sdk"
+  ],
+  "author": "Varun Agrawal <Varun@VarunAgw.com>",
+  "dependencies": {
+    "@varunagw/lotr-sdk": "^1.0.6",
+    "dotenv": "^16.0.3"
+  }
+}
